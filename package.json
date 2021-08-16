@@ -1,0 +1,19 @@
+{
+  "name": "@samagra-x/x-admin-logger",
+  "version": "0.0.0",
+  "description": "A logging utility for *x-admin*, a low-code framework for building admin platforms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samagra-development/x-admin-logger.git"
+  },
+  "author": "Bharat Kashyap",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/samagra-development/x-admin-logger/issues"
+  },
+  "homepage": "https://github.com/samagra-development/x-admin-logger#readme"
+}
