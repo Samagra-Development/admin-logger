@@ -1,22 +1,19 @@
 {
-  "name": "x-admin-logger",
-  "version": "1.0.0",
-  "description": "Logging utility for x-admin",
-  "main": "src/main.js",
+  "name": "@samagra-x/x-admin-logger",
+  "version": "0.0.1",
+  "description": "A logging utility for *x-admin*, a low-code framework for building admin platforms",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sagar-techjoomla/x-admin-logger.git"
+    "url": "git+https://github.com/samagra-development/x-admin-logger.git"
   },
-  "keywords": [
-    "logger"
-  ],
-  "author": "",
-  "license": "ISC",
+  "author": "Bharat Kashyap",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sagar-techjoomla/x-admin-logger/issues"
+    "url": "https://github.com/samagra-development/x-admin-logger/issues"
   },
-  "homepage": "https://github.com/sagar-techjoomla/x-admin-logger#readme"
+  "homepage": "https://github.com/samagra-development/x-admin-logger#readme"
 }
