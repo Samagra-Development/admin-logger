@@ -1,8 +1,9 @@
 {
   "name": "@samagra-x/x-admin-logger",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A logging utility for *x-admin*, a low-code framework for building admin platforms",
-  "main": "src/main.js",
+  "main": "src/main",
+  "typings": "src/main",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
